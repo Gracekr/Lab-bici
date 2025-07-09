@@ -69,7 +69,7 @@ public class Bicicleta {
     }
 
     public void honk(){
-        System.out.println("Suena el claxon "+ this.model);
+        System.out.println("La "+this.model+" suena el claxon " );
     }
     public void toTurn(){
         System.out.println("Gira a la derecha");
